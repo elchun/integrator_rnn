@@ -1,0 +1,8 @@
+venv/*
+assets/*
+exp_runs/*
+*.pth
+*.pt
+exp_runs/*
+experiments/*
+*.swp
